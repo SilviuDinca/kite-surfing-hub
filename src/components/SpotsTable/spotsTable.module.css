@@ -1,0 +1,7 @@
+.tableHead {
+  background-color: #d8d8d8;
+}
+
+.tableRow:nth-of-type(even) {
+  background-color: #f3f3f3;
+}

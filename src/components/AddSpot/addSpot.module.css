@@ -1,0 +1,16 @@
+.addSpot {
+  margin-right: 10px;
+}
+
+.dialogContent {
+  display: flex;
+  flex-direction: column;
+}
+
+.spot > div {
+  margin-bottom: 15px;
+}
+
+.highSeason {
+  margin-bottom: 15px;
+}

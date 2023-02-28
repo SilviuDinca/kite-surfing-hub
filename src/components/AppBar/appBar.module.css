@@ -1,0 +1,17 @@
+.toolbar {
+  display: flex;
+  justify-content: space-between;
+}
+
+.rightSideNav {
+  display: flex;
+  align-items: center;
+}
+
+.iconAccount {
+  padding-left: 10px;
+}
+
+.logout {
+  margin-left: 5px;
+}

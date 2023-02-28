@@ -1,0 +1,17 @@
+.barSpotDetails {
+  display: flex;
+  align-items: center;
+}
+
+.starImg {
+  margin-left: 5px;
+}
+
+.country {
+  color: #9b9b9b;
+}
+
+.spotDetail {
+  color: #9b9b9b;
+  font-weight: bold;
+}
